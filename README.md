@@ -20,7 +20,4 @@ This library implements:
 
 It helps developers understand **how React actually works internally**.
 
----
-
-## 📁 Project Structure
 
